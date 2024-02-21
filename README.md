@@ -4,3 +4,7 @@ Personal README
 [![Bhavna's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavna3)](https://github.com/bhavna3/github-readme-stats)
 
 ![Bhavna's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavna3&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Bhavna's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavna3&show_icons=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhavna3&repo=github-readme-stats)](https://github.com/bhavna3/github-readme-stats)
