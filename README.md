@@ -7,4 +7,4 @@ Personal README
 
 ![Bhavna's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavna3&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhavna3&repo=github-readme-stats)](https://github.com/bhavna3/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
