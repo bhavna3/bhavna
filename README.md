@@ -7,10 +7,9 @@ Welcome to my GitHub profile. I'm Bhavna, and I'm passionate about coding and te
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning Java.
 
+  ## GitHub Stats
 
-## GitHub Stats
-
-![Bhavna's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavna3&show_icons=true&include_all_commits=true&theme=radical)
+![Bhavna's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavna3&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## More Stats
 
