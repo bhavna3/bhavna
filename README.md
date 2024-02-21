@@ -7,4 +7,4 @@ Personal README
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
 
-[![Top languges by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhavna3&theme=default)
+![Top languges by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhavna3&theme=default)
