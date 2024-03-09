@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile. I'm Bhavna, and I'm passionate about coding and technology. Here's a bit more about me:
 
-- 🔭 I’m currently working on Web Development.
+- 🔭 Interested in Web Development.
 - 🌱 I’m currently learning Java.
 
 ## More Stats
@@ -16,7 +16,7 @@ Welcome to my GitHub profile. I'm Bhavna, and I'm passionate about coding and te
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,mysql)](https://skillicons.dev)
 
 ## Top Languages by Repository
 
