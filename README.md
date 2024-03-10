@@ -16,7 +16,7 @@ Welcome to my GitHub profile. I'm Bhavna, and I'm passionate about coding and te
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,mysql)](https://skillicons.dev)
 
 ## Top Languages by Repository
 
